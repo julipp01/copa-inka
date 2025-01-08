@@ -19,7 +19,6 @@
 5. 🎉 Merged PR [#4](https://github.com/midudev/libros-programacion-gratis/pull/4) in [midudev/libros-programacion-gratis](https://github.com/midudev/libros-programacion-gratis)
 <!--END_SECTION:activity-->
 
-
 <details>
   <summary>Sumario</summary>
   <ol>
@@ -31,17 +30,14 @@
     </li>
     <li><a href="#api">API</a></li>
     <li><a href="#redes-sociales">Redes sociales</a></li>
-		<li><a href="#lighthouse">Lighthouse</a></li>
-		<li><a href="#estadísticas-acerca-del-autor">Estadísticas Acerca del Autor</a></li>
+    <li><a href="#lighthouse">Lighthouse</a></li>
+    <li><a href="#estadísticas-acerca-del-autor">Estadísticas Acerca del Autor</a></li>
   </ol>
 </details>
-
-
 
 [![English](https://img.shields.io/badge/language-English-blue.svg)](README.en.md)
 
 [![kings league project](https://jordinodejs.vercel.app/api/pin/?username=midudev&repo=kings-league-project&theme=calm&bg_color=ff7b25&title_color=000000&icon_color=d64161&border_color=d64161&text_color=eeeee4)](https://github.com/midudev/kings-league-project)
-
 
 ## Descripción del proyecto
 
@@ -57,7 +53,7 @@ La página web está desarrollada con el framework [Astro](https://astro.build/)
 
 Para probar y validar el funcionamiento de la aplicación, hemos utilizado la librería de pruebas [Vitest](https://vitest.dev/).
 
-Si quieres ayudarnos, por favor toma un momento para leer el archivo [CONTRIBUTING.md](https://github.com/midudev/kings-league-project/blob/main/CONTRIBUTING.md). Allí encontrarás información útil sobre cómo contribuír de manera efectiva y cómo seguir nuestras guías de estilo. ¡Esperamos que disfrutes colaborando con nosotros!
+Si quieres ayudarnos, por favor toma un momento para leer el archivo [CONTRIBUTING.md](https://github.com/midudev/kings-league-project/blob/main/CONTRIBUTING.md). Allí encontrarás información útil sobre cómo contribuir de manera efectiva y cómo seguir nuestras guías de estilo. ¡Esperamos que disfrutes colaborando con nosotros!
 
 ## API
 
@@ -90,16 +86,3 @@ Los endpoints disponibles son:
 - [YouTube](https://www.youtube.com/c/midudev)
 
 o únete a la comunidad en [Discord](https://discord.gg/midudev)
-
-## LightHouse
-
-[![Lighthouse Performance Badge](./test_results/lighthouse_performance.svg)](https://github.com/midudev/kings-league-project)
-[![Lighthouse Accessibility Badge](./test_results/lighthouse_accessibility.svg)](https://github.com/midudev/kings-league-project)
-[![Lighthouse Best Practices Badge](./test_results/lighthouse_best-practices.svg)](https://github.com/midudev/kings-league-project)
-[![Lighthouse SEO Badge](./test_results/lighthouse_seo.svg)](https://github.com/midudev/kings-league-project)
-
-## Estadísticas Acerca del Autor
-
-<p>&nbsp;<img align="center" src="https://jordinodejs.vercel.app/api?username=midudev&show_icons=true&locale=es&theme=calm" alt="midudev" /></p>
-
-<p><img align="left" src="https://jordinodejs.vercel.app/api/top-langs?username=midudev&show_icons=true&locale=es&layout=compact&theme=calm&langs_count=8&hide=php,coffeescript" alt="midudev" /></p>
